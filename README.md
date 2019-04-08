@@ -1,4 +1,4 @@
-# Usability Evaluation and Prototype (again)
+# Usability Evaluation and Prototyping (again)
 Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
 the participant from the previous Contextual Inquiry (CI) and an additional novice-participant.
 Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
@@ -20,14 +20,11 @@ The description should *not* contain any personally identifiable information.
 
 #### Description of Participant 2
 
-### Process Overview
-Describe the usability evaluation set-up consisting of the `Evaluation Script`,
-which comprises the questions and instructions to the participants,
-and `Prototype Apparatus`, which exposes the hardware and software specifications where the prototype runs on.
-
-#### Evaluation Script
-
-#### Prototype Apparatus
+### Evaluation Script
+Write the questions you ask and the instructions you use to direct the participants on what to do.
+If it is the same as previous assignments, please mention this, yet go ahead and *include* it again,
+so we have everything in one place.
+Note that the evaluation script must include *exactly what you plan to say to the participants*.
 
 ### Transcript
 Provide a summary of what the participant did and said, and what you did and said.
@@ -49,17 +46,29 @@ Record your observations per prototype screen containing:
 ![Prototype Screen 1](https://picsum.photos/540/960/?random)
 
  - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback/Incidence**: Provide feedback (positive or negative) given by the participants, **or** critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants.
+ - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
+ - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants.
  - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `Observation 1`.
  
 #### Observation 2
-![Prototype Screen 2](https://picsum.photos/960/540/?random)
+![Prototype Screen 2](https://picsum.photos/960/960/?random)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback/Incidence**: Provide feedback (positive or negative) given by the participants, **or** critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
+ - **Reference**: 
+ - **Feedback**: 
+ - **Incidence**: 
+ - **Reason**: 
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `Observation 2`.
+ 
+#### Observation 3
+![Prototype Screen 3](https://picsum.photos/960/540/?random)
+
+ - **Reference**:  
+ - **Feedback**: 
+ - **Incidence**: 
+ - **Reason**: 
+ - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `Observation 3`.
  
  ... and so on ...
 
+## Part B: Prototyping
