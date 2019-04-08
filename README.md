@@ -1,6 +1,7 @@
 # Usability Evaluation and Prototyping (again)
 > Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) and an additional novice-participant.
+> the participant from the previous Contextual Inquiry (CI) 
+> and an additional novice-participant with different demographics if possible.
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
@@ -69,7 +70,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
  - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
  - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants.
+ - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
  - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
  
@@ -95,4 +96,21 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  
  ---
 
-## Part B: Prototyping
+## Part B: Prototyping (again)
+> Next, you will need to modify your prototype 
+> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
+
+### Sketch
+> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
+> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
+> Please make sure the any texts on the sketch are readable.
+
+![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+
+### Design Rationale
+> Please write a paragraph expressing what you have learned from the usability evaluation, 
+> and how it is reflected in your design.
+
+### High-Fidelity Interactive-Prototype
+> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
+> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
