@@ -19,28 +19,28 @@
 > As with the CI, you might need to videotape your sessions.
 > You can benefit from the videotape while writing your `Recording Transcript` later.
 
-### Brief Description of Participants
+### 1. Brief Description of Participants
 > Describe your participants in bullets or sentences.
 > The description should contain their demographic (age, gender, occupation),
 > their skill level in using the system, and your reasons choosing them.
 > The description should NOT contain any personally identifiable information.
 
-#### Description of Participant 1
+#### a. Description of Participant 1
  - The Quick 
  - Brown Fox 
  - Jumps Over 
  - The Lazy Dog
 
-#### Description of Participant 2
+#### b. Description of Participant 2
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-### Evaluation Script
+### 2. Evaluation Script
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
 > If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
 > so we have everything in one place.
 > Note that the evaluation script must include exactly what you plan to say to the participants.
 
-### Transcript
+### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
 > If at some points you have to help the participants, because they cannot figure out what to do,
 > that scene must be included in the transcript.
@@ -49,19 +49,19 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > Ensure to write down all the actions on the device, whether correct or wrong.
 > Remember to supplement the transcript with time-codes or line-numbers.
 
-#### Transcript with Participant 1
+#### a. Transcript with Participant 1
  1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
  1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
  1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
  1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
 
-#### Transcript with Participant 2
+#### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
  - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
  - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
  - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
 
-### Feedback and Incidence Analysis
+### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
