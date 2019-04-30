@@ -24,13 +24,18 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+- User is male
+- He was 22 years old
+- He was studied in Communication
+- He operate the application for the first time
+- Active in social media
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+- User is female
+- She was 21 years old
+- She was studied in Electro Engineering
+- She operate the application for the first time
+- Active in social media, website enthusiast, and content creator
 
 ### 2. Evaluation Script
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
