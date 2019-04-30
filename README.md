@@ -5,8 +5,8 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-Here is my demonstration of the prorotype operation from the myTunerRadio application: https://youtu.be/3DJZ2vkCITY
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+Here is my demonstration of the prorotype operation from the myTunerRadio application: 
+[![Prototype Video](/img/myTunerRadio.png)](https://youtu.be/3DJZ2vkCITY)
 
 ---
 
