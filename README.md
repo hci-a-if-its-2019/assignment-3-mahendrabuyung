@@ -38,10 +38,17 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
 - Active in social media, website enthusiast, and content creator
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+
+#### a. Instruction
+ - Open and play 1 station from any categories
+ - Find the setting menu
+ - Find list of Favorites
+ - Play 1 song 
+ - Play 1 podcast
+ 
+#### b. Question
+ - How often you to use the radio streaming application?
+ - How important is an application like this compared to a music streaming application?
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
