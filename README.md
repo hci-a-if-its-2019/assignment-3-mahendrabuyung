@@ -126,7 +126,7 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
 42. **Participant**	:Kalau saya boleh menyarankan, bisa dibuat 1 tombol kecil "Love" untuk bisa di klik jadi nanti radio atau yang lain bisa jadi favorite.
 43. **Me**		:Baik, terima kasih sarannya, akan saya perbaiki nanti.
 44. **Participant**	:Baik, sama sama Mas. Tapi saya suka prototype yang Mas buat ini.
-45. **Me**		:Terima kasih. Terakhir, saya berterima kasih karena bersida saya repoti hehe..
+45. **Me**		:Terima kasih. Terakhir, saya berterima kasih karena bersedia saya repoti hehe..
 46. **Participant**	:Tidak apa apa, Mas. Tidak ngrepoti kok, saya senang malah.
 47. **Me**		:Baik. Terima kasih :)
 48. **Participant**	:Sama-sama. :)
