@@ -188,7 +188,30 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
  - **Reason**: There is no feature for change the country to stream the radio channel for now.
  - **Resolution**: If user click on the flag, there is selection of many countries.
  
+#### OBSERVATION 7
+![Prototype Screen 7](/img/FavoriteTag_.png)
+![Prototype Screen 7](/img/FavoriteTag.png)
+ - **Reference**: Participant 1 and 2, Script line 35-38(1) and Script line 40-42(2).
+ - **Feedback**: Negative and suggestion feedback.
+ - **Incidence**: Participant confused about the Favorite system and don't know how to add as a favorite.
+ - **Reason**: There is no button or command to add as Favorite.
+ - **Resolution**: Add symbol, like Star or Love, in a mini player that show our favorite station, song, or podcast.
+  
+#### OBSERVATION 8
+![Prototype Screen 8](/img/SongList.png)
+ - **Reference**: Participant 1, Script line 27.
+ - **Feedback**: Suggestion feedback.
+ - **Incidence**: Participant can only have 1 option song.
+ - **Reason**: There is only 1 song that was displayed.
+ - **Resolution**: Add more songs in a Song Menu.
  
+#### OBSERVATION 9
+![Prototype Screen 9](/img/InfoSetting.png)
+ - **Reference**: Participant 2, Script line 22.
+ - **Feedback**:Suggestion feedback.
+ - **Incidence**: Participant doesn't see a full information in setting menu.
+ - **Reason**: There is only a subs menu in menu setting and no description and further information in it..
+ - **Resolution**: Add more information and description of setting.
  
 ## Part B: Prototyping (again)
 > Next, you will need to modify your prototype 
