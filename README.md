@@ -1,8 +1,4 @@
 # Usability Evaluation and Prototyping (again)
-> Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) 
-> and an additional novice-participant with different demographics if possible.
-> Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
 Here is my demonstration of the prorotype operation from the myTunerRadio application: 
@@ -11,17 +7,8 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
 - User is male
@@ -49,21 +36,50 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
 #### b. Question
  - How often you to use the radio streaming application?
  - How important is an application like this compared to a music streaming application?
-
+ - Does the radio streaming application also need to add song player and podcast features?
+ 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+1. **Me**		        :Halo selamat siang, maaf mengganggu kembali.
+2. **Participant**	:Halo, ketemu lagi!
+3. **Me**          :Kali ini saya akan meminta bantuan untuk mencoba prorotype aplikasi waktu itu, namun kali ini dengan buatan saya sendiri.
+4. **Participant** :Wah, baik. Boleh!
+5. **Me**		        :Sebelumnya, apa anda sering menggunakan aplikasi streaming radio seperti ini di HP anda?
+6. **Participant** :Kebetulan saya senang mendengarkan radio saat di jalan, tapi jarang menggunakan aplikasi seperti ini di HP saya.
+7. **Me**		        :Baik, lalu apa menurut anda pentingkah aplikasi seperti ini dibandingkan dengan aplikasi digital platform musik lainnya?
+8. **Participant**	:Kalau untuk anak anak muda generasi sekarang, mungkin aplikasi streaming musik yang besar itu lebih menjadi pilihan, namun tidak menutup kemungkinan bagi para pengdengar radio. Karena juga tidak sedikit pendengar radio yang sangat antusias dan memasang apikasi seperti ini di HP mereka.
+9. **Me**		        :Benar juga, tapi memang penikmat radio untuk generasi muda semakin sedikit ya, Hehe.. Nah, di aplikasi ini ada fitur pemutar lagu dan podcast, perlukah?
+10. **Participant**	:Bagi saya tidak masalah, sebagai daya tarik untuk semakin menggunakan aplikasi streaming radio dan jika ingin mendengar lagu atau podcast tanpa perlu pindah aplikasi.
+11. **Me**		        :Baiklah. Sekarang coba pilih/buka salah satu kategori yang ada, dan play salah satu channel-nya.
+12. **Participant**	:Baik, nah ini sudah di Top Recommended jadi enak apa yang populer dan sering didengar, jadi bisa langsung pilih.
+13. **Participant**	:Ini dicoba ke semua category?
+14. **Me**		        :Iya, silakan dicoba.
+15. **Participant**	:Bagus sih kita bisa langsung lihat ada kategori apa saja.
+16. **Participant**	:Tapi ini masih percobaan ya? Channel radionya sama semua, Hehe..
+17. **Me**		        :Iya, nanti saya coba lebih banyak dan saya sesuaikan dengan kategorinya.
+18. **Participant**	:Oke.
+19. **Me**		        :Selanjutnya, coba masuk ke menu settingnya.
+20. **Participant**	:Wah, sekarang lebih jelas, langsung ada menu settingnya di awal. Kalau kemarin kan harus beberapa langkah untuk menuju setting.
+21. **Me**		        :Iya, karena saya mencoba memperbaiki dari saran anda.
+22. **Participant**	:Baik, lalu apa?
+23. **Me**		        :Coba sekarang putar 1 lagu yang ada.
+24. **Participant**	:Baiklah, saya berarti menuju ke menu Song ya?
+25. **Participant**	:Ini cuma ada 1 lagunya Coldplay. Saya play.
+26. **Participant**	:Oh dari tadi saya baru sadar kalo saya klik ada muncul mini player dan indikatornya sedang memainkan apa. Wah bagus. Tapi mungkin sama kaya yang di atas, kalo bisa ditambahi tampilan lagunya biar gak kosong hehe
+27. **Me**		        :Baiklah, akan saya perbaiki, terima kasih atas masukannya.
+28. **Me**		        :Selanjutnya pilih salah satu podcast dan play.
+29. **Participant**	:Oke, enak ya langsung bisa ke menu lainnya. Sudah di podcast ini, saya pilih 1 podcast.
+30. **Me**		        :Baik. Sekarang bisa saya lanjutkan, coba cari list Favorite 
+31. **Participant**	:Ini Favorite apa? Dari radio, lagu atau podcast? Atau ketiganya?
+32. **Me**		        :Ketiganya.
+33. **Participant**	:Baiklah, saya sepertinya sudah melihat tadi.
+34. **Participant**	:Saya sudah menemukan di setting. Tapi dari awal saya tidak menemukan cara bagaimana saya menjadikan salah satu dari apa yang sudah saya putar menjadi favorite.
+35. **Me**		        :Iya belum ada itu, sehingga secara sistem, 3 radio, lagu, dan podcast yang terakhir dimainkan menjadi favorite.
+36. **Participant**	:Mungkin bisa dibuat 1 tombol bintang atau hati untuk memasukkan ke favorite.
+37. **Me**		        :Baik, terima kasih atas masukannya
+38. **Me**		        :Untuk kali ini sudah selesai. Terima kasih atas waktu dan kesempatannya.
+39. **Participant**	:Sama-sama.
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
