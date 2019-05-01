@@ -217,7 +217,7 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
 
 ### Sketch
 
-![Sketch of Refined Prototype](/img/skecth_additional.png)
+![Sketch of Refined Prototype](/img/skecth_additional.jpg)
 
 My prototype is my additional features of my old prototype. Overall, there is no differences between my old and new prototype, except the new features; Country selection and add as a Favorite.
 
