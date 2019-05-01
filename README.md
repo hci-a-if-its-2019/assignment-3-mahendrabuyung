@@ -214,20 +214,13 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
  - **Resolution**: Add more information and description of setting.
  
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
 
 ![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+The important thing that I can take from the usability evaluation process is about how users feel satisfied when using the application. I can measure the criteria of satisfaction through how the user can do the instructions given in a short time and not experience serious obstacles. The participants I invited to provide usability evaluation were very cooperative by providing objective comments and suggestions that were able to complete my good prototype work. In addition, from the usability evaluation process, I am increasingly able to understand the wishes of users and make an application better.
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+My High Fidelity Prototype of myTunerRadio: https://invis.io/UWRSX4GF6TE
