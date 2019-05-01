@@ -143,13 +143,13 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
  - **Resolution**:-
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Prototype Screen 2](/img/ChannelList.png)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reference**: Participant 1, Script line 16-18. 
+ - **Feedback**: Negative feedback.
+ - **Incidence**: -
+ - **Reason**: Too few channel
+ - **Resolution**: Add more channels in each categories.
  
 #### OBSERVATION 3
 ![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
