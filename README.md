@@ -217,7 +217,9 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
 
 ### Sketch
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![Sketch of Refined Prototype](/img/sketch_additional.png)
+
+My prototype is my additional features of my old prototype. Overall, there is no differences between my old and new prototype, except the new features; Country selection and add as a Favorite.
 
 ### Design Rationale
 The important thing that I can take from the usability evaluation process is about how users feel satisfied when using the application. I can measure the criteria of satisfaction through how the user can do the instructions given in a short time and not experience serious obstacles. The participants I invited to provide usability evaluation were very cooperative by providing objective comments and suggestions that were able to complete my good prototype work. In addition, from the usability evaluation process, I am increasingly able to understand the wishes of users and make an application better.
