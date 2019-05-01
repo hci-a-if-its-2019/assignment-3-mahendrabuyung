@@ -147,18 +147,18 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
 
  - **Reference**: Participant 1, Script line 16-18. 
  - **Feedback**: Negative feedback.
- - **Incidence**: -
- - **Reason**: Too few channel
+ - **Incidence**: Participant can only choose 3 channels.
+ - **Reason**: Too few channel.
  - **Resolution**: Add more channels in each categories.
  
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![Prototype Screen 3](/img/NearMe_ListChannel.png)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Reference**: Participant 2, Script line 16-19.
+ - **Feedback**: Negative feedback.
+ - **Incidence**: Participant find the same channel list in each categories, which should be different.
+ - **Reason**: -
+ - **Resolution**: Add more channels based on each categories.
  
  ... and so on ...
  
