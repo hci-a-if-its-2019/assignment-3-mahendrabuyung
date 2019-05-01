@@ -66,20 +66,21 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
 23. **Me**		        :Coba sekarang putar 1 lagu yang ada.
 24. **Participant**	:Baiklah, saya berarti menuju ke menu Song ya?
 25. **Participant**	:Ini cuma ada 1 lagunya Coldplay. Saya play.
-26. **Participant**	:Oh dari tadi saya baru sadar kalo saya klik ada muncul mini player dan indikatornya sedang memainkan apa. Wah bagus. Tapi mungkin sama kaya yang di atas, kalo bisa ditambahi tampilan lagunya biar gak kosong hehe
-27. **Me**		        :Baiklah, akan saya perbaiki, terima kasih atas masukannya.
-28. **Me**		        :Selanjutnya pilih salah satu podcast dan play.
-29. **Participant**	:Oke, enak ya langsung bisa ke menu lainnya. Sudah di podcast ini, saya pilih 1 podcast.
-30. **Me**		        :Baik. Sekarang bisa saya lanjutkan, coba cari list Favorite 
-31. **Participant**	:Ini Favorite apa? Dari radio, lagu atau podcast? Atau ketiganya?
-32. **Me**		        :Ketiganya.
-33. **Participant**	:Baiklah, saya sepertinya sudah melihat tadi.
-34. **Participant**	:Saya sudah menemukan di setting. Tapi dari awal saya tidak menemukan cara bagaimana saya menjadikan salah satu dari apa yang sudah saya putar menjadi favorite.
-35. **Me**		        :Iya belum ada itu, sehingga secara sistem, 3 radio, lagu, dan podcast yang terakhir dimainkan menjadi favorite.
-36. **Participant**	:Mungkin bisa dibuat 1 tombol bintang atau hati untuk memasukkan ke favorite.
-37. **Me**		        :Baik, terima kasih atas masukannya
-38. **Me**		        :Untuk kali ini sudah selesai. Terima kasih atas waktu dan kesempatannya.
-39. **Participant**	:Sama-sama.
+26. **Participant**	:Oh dari tadi saya baru sadar kalo saya klik ada muncul mini player dan indikatornya sedang memainkan apa. Wah bagus.
+27. **Participant** :Tapi mungkin sama kaya yang di atas, kalo bisa ditambahi tampilan lagunya biar gak kosong hehe
+28. **Me**		        :Baiklah, akan saya perbaiki, terima kasih atas masukannya.
+29. **Me**		        :Selanjutnya pilih salah satu podcast dan play.
+30. **Participant**	:Oke, enak ya langsung bisa ke menu lainnya. Sudah di podcast ini, saya pilih 1 podcast.
+31. **Me**		        :Baik. Sekarang bisa saya lanjutkan, coba cari list Favorite 
+32. **Participant**	:Ini Favorite apa? Dari radio, lagu atau podcast? Atau ketiganya?
+33. **Me**		        :Ketiganya.
+34. **Participant**	:Baiklah, saya sepertinya sudah melihat tadi.
+35. **Participant**	:Saya sudah menemukan di setting. Tapi dari awal saya tidak menemukan cara bagaimana saya menjadikan salah satu dari apa yang sudah saya putar menjadi favorite.
+36. **Me**		        :Iya belum ada itu, sehingga secara sistem, 3 radio, lagu, dan podcast yang terakhir dimainkan menjadi favorite.
+37. **Participant**	:Mungkin bisa dibuat 1 tombol bintang atau hati untuk memasukkan ke favorite.
+38. **Me**		        :Baik, terima kasih atas masukannya
+39. **Me**		        :Untuk kali ini sudah selesai. Terima kasih atas waktu dan kesempatannya.
+40. **Participant**	:Sama-sama.
 
 #### b. Transcript with Participant 2
 1. **Me**		:Selamat siang, mohon maaf mengganggu waktunya. Saya di sini akan meminta tolong kepada anda untuk mencoba prototype aplikasi yang saya buat.
@@ -160,10 +161,35 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
  - **Reason**: -
  - **Resolution**: Add more channels based on each categories.
  
- ... and so on ...
- 
- ---
+#### OBSERVATION 4
+![Prototype Screen 4](/img/MiniPlayer.png)
 
+ - **Reference**: Participant 1 and 2, Script line 26(1) and Script line 13(2).
+ - **Feedback**: Positive feedback.
+ - **Incidence**: Participant choose channel, song, or podcast and show the mini player.
+ - **Reason**: Make it easier for participant to know what is playing now.
+ - **Resolution**: -
+ 
+#### OBSERVATION 5
+![Prototype Screen 5](/img/Setting.png)
+
+ - **Reference**: Participant 1, Script line 20.
+ - **Feedback**: Positive feedback.
+ - **Incidence**: Participant click on setting menu.
+ - **Reason**: Make it easier for participant to access setting menu from the homepage of application.
+ - **Resolution**: -
+ 
+#### OBSERVATION 6
+![Prototype Screen 6](/img/FlagTag.png)
+
+ - **Reference**: Participant 2, Script line 23-25.
+ - **Feedback**: Negative feedback.
+ - **Incidence**: Participant click on Indonesian Flag.
+ - **Reason**: There is no feature for change the country to stream the radio channel for now.
+ - **Resolution**: If user click on the flag, there is selection of many countries.
+ 
+ 
+ 
 ## Part B: Prototyping (again)
 > Next, you will need to modify your prototype 
 > based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
