@@ -29,9 +29,9 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
 #### a. Instruction
  - Open and play 1 station from any categories
  - Find the setting menu
- - Find list of Favorites
  - Play 1 song 
  - Play 1 podcast
+ - Find list of Favorites
  
 #### b. Question
  - How often you to use the radio streaming application?
@@ -52,7 +52,7 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
 9. **Me**		        :Benar juga, tapi memang penikmat radio untuk generasi muda semakin sedikit ya, Hehe.. Nah, di aplikasi ini ada fitur pemutar lagu dan podcast, perlukah?
 10. **Participant**	:Bagi saya tidak masalah, sebagai daya tarik untuk semakin menggunakan aplikasi streaming radio dan jika ingin mendengar lagu atau podcast tanpa perlu pindah aplikasi.
 11. **Me**		        :Baiklah. Sekarang coba pilih/buka salah satu kategori yang ada, dan play salah satu channel-nya.
-12. **Participant**	:Baik, nah ini sudah di Top Recommended jadi enak apa yang populer dan sering didengar, jadi bisa langsung pilih.
+12. **Participant**	:Baik, nah ini sudah di Top Stations jadi enak apa yang populer dan sering didengar, jadi bisa langsung pilih.
 13. **Participant**	:Ini dicoba ke semua category?
 14. **Me**		        :Iya, silakan dicoba.
 15. **Participant**	:Bagus sih kita bisa langsung lihat ada kategori apa saja.
@@ -82,10 +82,54 @@ Here is my demonstration of the prorotype operation from the myTunerRadio applic
 39. **Participant**	:Sama-sama.
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+1. **Me**		:Selamat siang, mohon maaf mengganggu waktunya. Saya di sini akan meminta tolong kepada anda untuk mencoba prototype aplikasi yang saya buat.
+2. **Participant**	:Selamat siang, baik Mas. Saya akan bantu.
+3. **Me**		:Pertama-tama, saya ingin bertanya. Apakah sebelumnya anda pernah/sering menggunakan aplikasi streaming radio di HP anda?
+4. **Participant**	:Saya jarang mendengar radio, Mas, di HP saya juga tidak terinstall aplikasi streaming radio.
+5. **Me**		:Oh begitu, baik. Lalu apa menurut anda pentingkah aplikasi seperti ini dibandingkan dengan aplikasi digital platform musik lainnya?
+6. **Participant**	:Kalau untuk masalah itu kembali ke selera dan kesukaan, Mas. Jujur, secara pribadi saya memang pendengar lagu dan menggunakan aplikasi streaming lagu, meskipun di radio ada banyak lagu di sana, namun saya pribadi merasa lebih leluasa untuk mendengar lagu apa yang saya suka. Tapi bagi sebagian orang aplikasi streaming radio mungkin menjadi aplikasi yang penting bagi penikmat radio sampai sekarang, untuk lebih memudahkan mendengar radio dimana saja.
+7. **Me**		:Baiklah, memang benar. Untuk sebagian orang yang masih mendengar radio, aplikasi ini mungkin sangat membantu. Selanjutnya, di aplikasi ini ada fitur pemutar lagu dan podcast, perlukah disediakan?
+8. **Participant**	:Menurut saya pribadi, jika melihat sudut pandang pengguna aplikasi ini penting sih, karena mungkin dengan membuka 1 aplikasi ini jika ingin mendengar lagu atau podcast bisa dalam 1 aplikasi tanpa pindah pindah aplikasi lagi. Di sisi lain, dapat menghemat memori HP hehe..
+9. **Me**		:Baiklah. Untuk sekarang saya lanjutkan untuk mencoba prototype-nya ya.
+10. **Participant**	:Baik, Mas. Silakan.
+11. **Me**		:Sekarang coba pilih salah satu kategori yang ada di halaman awal aplikasi ini, dan pilih salah satu channel radio.
+12. **Participant**	:Baik. Ini sekarang saya sudah langsung ada di kategori Top Stations ya. Saya pilih salah satu.
+13. **Participant**	:Bagus, setelah saya pilih, muncul player di bawahnya. Saya coba ke kategori yang lain, Mas?
+14. **Me**		:Boleh, silakan.
+15. **Participant**	:Saya coba pilih Near Me.
+16. **Participant**	:Ini isi channelnya sama semua ya, Mas?
+17. **Me**		:Iya untuk ini saya buat sama hanya sebagai contoh saja.
+18. **Participant**	:Baiklah, tapi lebih baik kalo dibuat benar-benar sesuai dengan kategorinya.
+19. **Me**		:Baik, terima kasih atas masukannya. 
+20. **Me**		:Selanjutnya, coba masuk ke menu setting.
+21. **Participant**	:Baik, Mas. Sudah masuk, saya pilih menu yang ada di kanan atas ini.
+22. **Participant**	:Informasi dalam setting ada banyak, tapi mungkin bisa dilengkapi.
+23. **Participant**	:Itu bendera Indonesia untuk apa ya, Mas?
+24. **Me**		:Jadi itu jika dipilih, bisa muncul pilihan negara lain untuk streaming radio.
+25. **Participant**	:Mungkin bisa dilengkapi bagian itu, Mas. Namun untuk menu setting nya baik. Saya suka tampilannya.
+26. **Me**		:Lalu sekarang, coba play lagu yang ada.
+27. **Participant**	:Oke, Mas. Saya masuk ke Song
+28. **Participant**	:Di sini ada lagunya Coldplay, sudah saya pilih.
+29. **Participant**	:Sama seperti yg lain, jika dipilih muncul player di bawahnya, Saya suka.
+30. **Me**		:Terima kasih, lalu lanjut pilih satu podcast yang ada.
+31. **Participant**	:Baik, Mas.
+32. **Participant**	:Wah enak sekali bisa langsung pindah-pindah pilihan menu. Saya sudah pilih satu podcast, karena cuma ada 1 hehe. 
+33. **Me**		:Iya, cuma ada 1 karena saya hanya contohkan, akan saya lengkapi.
+34. **Participant**	:Baik, Mas. Tapi ini sudah bagus mas hehe
+35. **Me**		:Terima kasih. Sekarang coba ke list Favorite.
+36. **Participant**	:Favorite? Oke saya cari.
+37. **Participant**	:Kalau di halaman awal tidak ada mas, coba saya cari lagi.
+38. **Participant**	:Oh, sudah ketemu di setting, saya tidak kepikiran, padahal saya tadi sudah masuk ke setting tapi nggak sadar. Hehe...
+39. **Me**		:Baik.
+40. **Participant**	:Oh iya, Mas. Ini cara menambahkan supaya jadi favorite gimana? Apa ada caranya?
+41. **Me**		:Untuk sementara, ini menggunakan sistem jika 3 radio, lagu, atau podcast yang terkhir dipilih menjadi favorite.
+42. **Participant**	:Kalau saya boleh menyarankan, bisa dibuat 1 tombol kecil "Love" untuk bisa di klik jadi nanti radio atau yang lain bisa jadi favorite.
+43. **Me**		:Baik, terima kasih sarannya, akan saya perbaiki nanti.
+44. **Participant**	:Baik, sama sama Mas. Tapi saya suka prototype yang Mas buat ini.
+45. **Me**		:Terima kasih. Terakhir, saya berterima kasih karena bersida saya repoti hehe..
+46. **Participant**	:Tidak apa apa, Mas. Tidak ngrepoti kok, saya senang malah.
+47. **Me**		:Baik. Terima kasih :)
+48. **Participant**	:Sama-sama. :)
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
